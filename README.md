@@ -12,7 +12,7 @@ For this task, the method should work when being called with the following param
 Highly recommended, create unit tests to cover the functionality available. 
 Optionally package the client in a standalone library that is ready for distribution.
 
-##Additional information:
+## Additional information:
 + You can create a free Mailtrap Email Sending account (to use for smoke testing) at https://mailtrap.io/register/signup
 + You can see examples of how such a method would be called (in either Ruby of NodeJS) at:
 	- https://github.com/railsware/mailtrap-ruby
