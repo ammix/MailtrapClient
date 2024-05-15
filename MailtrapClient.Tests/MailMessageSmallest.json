@@ -1,0 +1,12 @@
+﻿{
+  "from": {
+    "email": "sales@example.com"
+  },
+  "to": [
+    {
+      "email": "john_doe@example.com"
+    }
+  ],
+  "subject": "Without subject",
+  "text": "Congratulations on your order no. 1234"
+}
